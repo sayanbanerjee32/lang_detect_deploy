@@ -5,5 +5,3 @@ fastai
 voila
 ipywidgets
 gdown
-ipyvuetify
-captum

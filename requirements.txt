@@ -1,0 +1,6 @@
+torch==1.9.1+cpu
+torchvision==0.10.1
+fastai
+voila
+ipywidgets
+gdown
